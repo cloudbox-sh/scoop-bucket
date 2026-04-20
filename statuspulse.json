@@ -1,12 +1,12 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cloudbox-sh/statuspulse/releases/download/v0.0.1/statuspulse_0.0.1_windows_x86_64.zip",
+            "url": "https://github.com/cloudbox-sh/statuspulse/releases/download/v0.0.2/statuspulse_0.0.2_windows_x86_64.zip",
             "bin": [
                 "statuspulse.exe"
             ],
-            "hash": "2afdb1b894528071957277d8fe4068efb758ac5f0b35b9feb9637a5d40de5888"
+            "hash": "78508b6fc606f08ea163b324eb96414926a7478473833d5b2ca0a62699968298"
         }
     },
     "homepage": "https://statuspulse.cloudbox.sh",
