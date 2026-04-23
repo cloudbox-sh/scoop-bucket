@@ -1,12 +1,12 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cloudbox-sh/notifypulse/releases/download/v0.0.1/notifypulse_0.0.1_windows_x86_64.zip",
+            "url": "https://github.com/cloudbox-sh/notifypulse/releases/download/v0.0.2/notifypulse_0.0.2_windows_x86_64.zip",
             "bin": [
                 "notifypulse.exe"
             ],
-            "hash": "d7daaea1ee9199a0d18e878b2606cc63b07438cfea610924a50a46f024cae45b"
+            "hash": "a99997bd82e939f221f4d853afadabed9a51e99632eb9ec12f03ad83ac4be2fa"
         }
     },
     "homepage": "https://notifypulse.cloudbox.sh",
